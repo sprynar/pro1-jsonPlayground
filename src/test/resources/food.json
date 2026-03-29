@@ -1,0 +1,200 @@
+{
+  "occasions": [
+    {
+      "name": "Neděle-Snídaně",
+      "personsCount": 30,
+      "recipesNames": ["Ovesná kaše"]
+    },
+    {
+      "name": "Pondělí-snídaně",
+      "personsCount": 31,
+      "recipesNames": ["Mléko na pití"]
+    },
+    {
+      "name": "Úterý-snídaně",
+      "personsCount": 32,
+      "recipesNames": ["Obložené chleby", "Mléko na pití"]
+    },
+    {
+      "name": "Středa-snídaně",
+      "personsCount": 28,
+      "recipesNames": ["Mléko na pití", "Ovesná kaše"]
+    },
+    {
+      "name": "Neděle-svačina1",
+      "personsCount": 30,
+      "recipesNames": ["Jablka"]
+    },
+    {
+      "name": "Pondělí-svačina1",
+      "personsCount": 31,
+      "recipesNames": ["Mrkve"]
+    },
+    {
+      "name": "Úterý-svačina1",
+      "personsCount": 32,
+      "recipesNames": ["Jablka"]
+    },
+    {
+      "name": "Středa-svačina1",
+      "personsCount": 28,
+      "recipesNames": ["Jablka"]
+    },
+    {
+      "name": "Neděle-oběd",
+      "personsCount": 29,
+      "recipesNames": ["Těstoviny se sýrovou omáčkou"]
+    },
+    {
+      "name": "Pondělí-oběd",
+      "personsCount": 31,
+      "recipesNames": ["Gulášová polévka"]
+    },
+    {
+      "name": "Úterý-oběd",
+      "personsCount": 32,
+      "recipesNames": ["Brambory s tvarohem"]
+    },
+    {
+      "name": "Sobota-svačina 2",
+      "personsCount": 30,
+      "recipesNames": ["Müsli tyčka"]
+    },
+    {
+      "name": "Neděle-svačina2",
+      "personsCount": 32,
+      "recipesNames": ["Müsli tyčka"]
+    },
+    {
+      "name": "Pondělí-svačina2",
+      "personsCount": 33,
+      "recipesNames": ["Müsli tyčka"]
+    },
+    {
+      "name": "Úterý-svačina2",
+      "personsCount": 28,
+      "recipesNames": ["Loupák"]
+    },
+    {
+      "name": "Sobota-Večeře",
+      "personsCount": 27,
+      "recipesNames": ["Müsli tyčka", "Mrkve"]
+    },
+    {
+      "name": "Neděle-večeře",
+      "personsCount": 32,
+      "recipesNames": ["Vaření na ohni"]
+    },
+    {
+      "name": "Pátek-večeře",
+      "personsCount": 33,
+      "recipesNames": ["Chlebová večeře"]
+    },
+    {
+      "name": "Úterý-večeře",
+      "personsCount": 28,
+      "recipesNames": ["Rizoto s masem"]
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Ovesná kaše",
+      "recipeItems": [
+        { "ingredientName": "ovesné vločky (g)", "amountPerPerson": 80 },
+        { "ingredientName": "domácí padané jablko", "amountPerPerson": 0.3 },
+        { "ingredientName": "čokoláda (g)", "amountPerPerson": 20 },
+        { "ingredientName": "lískové ořechy (g)", "amountPerPerson": 20 },
+        { "ingredientName": "mléko (l)", "amountPerPerson": 0.15 }
+      ]
+    },
+    {
+      "name": "Mléko na pití",
+      "recipeItems": [{ "ingredientName": "mléko (l)", "amountPerPerson": 0.2 }]
+    },
+    {
+      "name": "Obložené chleby",
+      "recipeItems": [
+        { "ingredientName": "chleba (krajíc)", "amountPerPerson": 2 },
+        { "ingredientName": "šunka (g)", "amountPerPerson": 40 },
+        { "ingredientName": "plátkový sýr (g)", "amountPerPerson": 40 }
+      ]
+    },
+    {
+      "name": "Jablka",
+      "recipeItems": [{ "ingredientName": "jablko", "amountPerPerson": 1 }]
+    },
+    {
+      "name": "Mrkve",
+      "recipeItems": [{ "ingredientName": "mrkev", "amountPerPerson": 1 }]
+    },
+    {
+      "name": "Těstoviny se sýrovou omáčkou",
+      "recipeItems": [
+        { "ingredientName": "vřetena (g)", "amountPerPerson": 100 },
+        { "ingredientName": "sýr v celku (g)", "amountPerPerson": 60 },
+        { "ingredientName": "tavený sýr (g)", "amountPerPerson": 40 },
+        { "ingredientName": "kukuřice plech (g)", "amountPerPerson": 100 }
+      ]
+    },
+    {
+      "name": "Gulášová polévka",
+      "recipeItems": [
+        { "ingredientName": "brambory (g)", "amountPerPerson": 200 },
+        { "ingredientName": "mleté maso (g)", "amountPerPerson": 100 },
+        { "ingredientName": "chleba (krajíc)", "amountPerPerson": 1.5 },
+        {
+          "ingredientName": "hustá gul. pol. sáček (porce)",
+          "amountPerPerson": 1
+        }
+      ]
+    },
+    {
+      "name": "Brambory s tvarohem",
+      "recipeItems": [
+        { "ingredientName": "brambory (g)", "amountPerPerson": 200 },
+        { "ingredientName": "tvaroh (g)", "amountPerPerson": 100 }
+      ]
+    },
+    {
+      "name": "Müsli tyčka",
+      "recipeItems": [
+        { "ingredientName": "müsli tyčka apod.", "amountPerPerson": 1 }
+      ]
+    },
+    {
+      "name": "Loupák",
+      "recipeItems": [{ "ingredientName": "loupák", "amountPerPerson": 1 }]
+    },
+    {
+      "name": "Vaření na ohni",
+      "recipeItems": [
+        { "ingredientName": "kuřecí maso (g)", "amountPerPerson": 100 },
+        { "ingredientName": "brambory (g)", "amountPerPerson": 180 },
+        { "ingredientName": "fazole plech (g)", "amountPerPerson": 50 },
+        { "ingredientName": "kečup (g)", "amountPerPerson": 30 }
+      ]
+    },
+    {
+      "name": "Chlebová večeře",
+      "recipeItems": [
+        { "ingredientName": "chleba (krajíc)", "amountPerPerson": 2 },
+        { "ingredientName": "šunka krájená (g)", "amountPerPerson": 30 },
+        { "ingredientName": "sýr krájený (g)", "amountPerPerson": 45 },
+        { "ingredientName": "suchý salám krájený (g)", "amountPerPerson": 30 },
+        { "ingredientName": "perla (g)", "amountPerPerson": 25 }
+      ]
+    },
+    {
+      "name": "Rizoto s masem",
+      "recipeItems": [
+        { "ingredientName": "rýže bez sáčků (g)", "amountPerPerson": 75 },
+        { "ingredientName": "vepřové maso (g)", "amountPerPerson": 80 },
+        { "ingredientName": "sýr v celku (g)", "amountPerPerson": 40 },
+        { "ingredientName": "hrášek plech (g)", "amountPerPerson": 30 },
+        { "ingredientName": "kečup (g)", "amountPerPerson": 50 },
+        { "ingredientName": "cibule (ks)", "amountPerPerson": 0.35 }
+      ]
+    }
+  ],
+  "name": "Lavina"
+}
